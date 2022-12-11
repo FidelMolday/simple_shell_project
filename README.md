@@ -19,5 +19,5 @@ By the end of this project, one should have a solid understanding on these conce
 * [X] How does the shell use the PATH to find the programs
 * [X] How to execute another program with the ```execve``` system call
 * [X] How to suspend the execution of a process until one of its children terminates
-* [ ] What is ```EOF```  / “end-of-file”?
+* [X] What is ```EOF```  / “end-of-file”?
                                          
