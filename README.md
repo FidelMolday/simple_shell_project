@@ -11,7 +11,7 @@ By the end of this project, one should have a solid understanding on these conce
 * [X] Who invented the B programming language (the direct predecessor to the C programming language)
 * [X] Who is Ken Thompson
 * [X] How does the shell work
-* [ ] What is a pid and a ppid
+* [X] What is a pid and a ppid
 * [ ] How to manipulate the environment of the current process
 * [ ] What is the difference between a function and a system call
 * [ ] How to create processes
