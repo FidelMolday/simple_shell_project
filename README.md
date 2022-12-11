@@ -14,7 +14,7 @@ By the end of this project, one should have a solid understanding on these conce
 * [X] What is a pid and a ppid
 * [X] How to manipulate the environment of the current process
 * [X] What is the difference between a function and a system call
-* [ ] How to create processes
+* [X] How to create processes
 * [ ] What are the three prototypes of ```main```
 * [ ] How does the shell use the PATH to find the programs
 * [ ] How to execute another program with the ```execve``` system call
