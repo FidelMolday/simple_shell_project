@@ -12,7 +12,7 @@ By the end of this project, one should have a solid understanding on these conce
 * [X] Who is Ken Thompson
 * [X] How does the shell work
 * [X] What is a pid and a ppid
-* [ ] How to manipulate the environment of the current process
+* [X] How to manipulate the environment of the current process
 * [ ] What is the difference between a function and a system call
 * [ ] How to create processes
 * [ ] What are the three prototypes of ```main```
